@@ -1,0 +1,14 @@
+{
+  "name": "docuseal",
+  "description": "Add DocuSeal document signing to your app with embed components, REST API, SDKs, and webhooks.",
+  "version": "1.0.0",
+  "skills": "./skills/",
+  "author": {
+    "name": "DocuSeal",
+    "url": "https://www.docuseal.com"
+  },
+  "homepage": "https://www.docuseal.com",
+  "repository": "https://github.com/docusealco/docuseal-agent-skills",
+  "license": "MIT",
+  "keywords": ["e-signature", "docuseal", "pdf", "documents", "signing"]
+}
